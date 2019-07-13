@@ -1,0 +1,63 @@
+#father {
+    width: 450px;
+    height: 280px;
+    margin: 0px;
+    padding: 0px;
+    background-color: white;
+    border: 1px solid black;
+    font-family: 'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;
+
+}
+
+#logo {
+   height: 65px;
+   width: 440px;
+   position: relative;
+   top: 9px;
+   background-image: url(https://assets.breatheco.de/apis/img/icon/4geeks.png);
+   background-repeat: no-repeat;
+   background-position: right top;
+   background-size: 54px;
+}
+
+
+#content {
+    height: 100px;
+    width: 200px;
+    float: left;
+    position: relative;
+    margin: 10px;
+    font-size: 2ch;
+    top: -10px
+
+ }
+
+ #form {
+    height: 150px;
+    width: 55px;
+    float: left;
+    position: relative;
+    top: 15px;
+    left: 15px;
+
+ }
+
+ input {
+   width: 350%;
+   padding: 3.5px;
+   margin: 1px 0;
+   border: none;
+   border-bottom: 1px solid gray;
+   color: gray
+
+ }
+
+ #button {
+    height: 20px;
+    width: 450px;
+    position: relative;
+    top: 20px;
+    display: flex;
+    justify-content: center;
+
+ }
