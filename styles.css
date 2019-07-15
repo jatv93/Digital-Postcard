@@ -1,6 +1,6 @@
 #father {
-    width: 600px;
-    height: 280px;
+    width: 550px;
+    height: 300px;
     margin: 0px;
     padding: 0px;
     background-color: white;
@@ -9,7 +9,7 @@
 }
 #logo {
    height: 65px;
-   width: 440px;
+   width: 530px;
    position: relative;
    top: 9px;
    background-image: url(https://assets.breatheco.de/apis/img/icon/4geeks.png);
@@ -19,7 +19,7 @@
 }
 #content {
     height: 100px;
-    width: 350px;
+    width: 300px;
     float: left;
     position: relative;
     margin: 10px;
@@ -46,7 +46,8 @@
     height: 20px;
     width: 450px;
     position: relative;
-    top: 20px;
+    top: 45px;
+    left: 35px;
     display: flex;
     justify-content: center;
  }
